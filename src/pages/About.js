@@ -20,7 +20,7 @@ const mainPage = () => {
 
                                 <div className="col-md-8">
 
-                                <p>My name is Michael Galloway.  I was born and raised in Alaska.  I moved to the greater Houston area in 2015.  I enjoy hiking the outdoors, photography, traveling the world, good food and craft beer.</p>
+                                <p>My name is Michael Galloway.  I was born and raised in Alaska.  I moved to the greater Houston area in 2015.  I enjoy hiking the outdoors, photography, traveling the world, sports, good food and craft beer.</p>
     
                                 <p>I have 16+ years of experience working supply chain and materials in the oil and gas industry with a vast knowledge in Warehousing and Inventory Management.  Highly skilled in analytics with a focus on zero inventory mindset and cost savings.</p>
         
