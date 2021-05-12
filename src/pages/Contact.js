@@ -20,9 +20,9 @@ const Contact = () => {
                                     <div className="col-md-8">
 
                                    
-                                        <p>GitHub Profile: <a href="https://github.com/gallm1" target="_blank">https://github.com/gallm1</a> </p>
-                                        <p>Linkedin Profile: <a href="https://www.linkedin.com/in/michael-galloway-95823420a/" target="_blank"></a></p>
-                                        <p>Email Address: </p>
+                                        <p>GitHub Profile:  <a href="https://github.com/gallm1" target="_blank">https://github.com/gallm1</a></p>
+                                        <p>Linkedin Profile:  <a href="https://www.linkedin.com/in/michael-galloway-95823420a/" target="_blank">https://www.linkedin.com/in/michael-galloway-95823420a/</a></p>
+                                        <p>Email Address:  <a href="mailto: michael.galloway9@gmail.com">michael.galloway9@gmail.com</a></p>
                                         <p>Phone Number:</p>
                                         <a href=""
                                         > Resume</a>
