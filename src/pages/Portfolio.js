@@ -22,23 +22,22 @@ const portfolio = () => {
                             </div>
 
                             <div className="col-md-3">
-                                <a href="https://gallm1.github.io/codequiz/">
+                                <a href="https://gallm1.github.io/codequiz/" target="_blank">
                                     <img src={codequiz}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">Code Quiz</p>
-                                <p id="repo"><a href="https://github.com/gallm1/codequiz">https://github.com/gallm1/codequiz</a></p>
+                                <p id="repo"><a href="https://github.com/gallm1/codequiz" target="_blank">https://github.com/gallm1/codequiz</a></p>
                             </div>
                             <div className="col-md-1"></div>
 
                             <div className="col-md-3">
-                                <a href="https://glacial-taiga-86866.herokuapp.com/">
+                                <a href="https://glacial-taiga-86866.herokuapp.com/" target="_blank">
                                     <img src={movie}
                                         className="card-img-top" alt="img-two" />
                                 </a>
                                 <p className="card-text">Movie Club</p>
-                                <p id="repo"><a href="https://github.com/gallm1/movie-club"
-                                >https://github.com/gallm1/movie-club</a></p>
+                                <p id="repo"><a href="https://github.com/gallm1/movie-club" target="_blank">https://github.com/gallm1/movie-club</a></p>
                             </div>
                         </div>
                         <br></br>
@@ -49,25 +48,23 @@ const portfolio = () => {
 
                             </div>
                             <div className="col-md-3">
-                                <a href="https://ana199816.github.io/homework-04/">
+                                <a href="https://gallm1.github.io/track-my-pack/" target="_blank">
                                     <img src={basketball}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">Who Got Game?</p>
-                                <p id="repo"><a href="https://github.com/gallm1/track-my-pack"
-                                >https://github.com/gallm1/track-my-pack</a></p>
+                                <p id="repo"><a href="https://github.com/gallm1/track-my-pack" target="_blank">https://github.com/gallm1/track-my-pack</a></p>
                             </div>
                             <div className="col-md-1">
 
                             </div>
                             <div className="col-md-3">
-                                <a href="https://gallm1.github.io/weather-dashboard/">
+                                <a href="https://gallm1.github.io/weather-dashboard/" target="_blank">
                                     <img src={weather}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">Weather Dashboard</p>
-                                <p id="repo"><a href="https://github.com/gallm1/weather-dashboard"
-                                >https://github.com/gallm1/weather-dashboard</a></p>
+                                <p id="repo"><a href="https://github.com/gallm1/weather-dashboard" target="_blank">https://github.com/gallm1/weather-dashboard</a></p>
                                 <div className="col-md-1"></div>
                             </div>
                         </div>
@@ -81,8 +78,7 @@ const portfolio = () => {
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">E-Commerce</p>
-                                <p id="repo"><a href="https://github.com/gallm1/ecommerce"
-                                >https://github.com/gallm1/ecommerce</a></p>
+                                <p id="repo"><a href="https://github.com/gallm1/ecommerce" target="_blank">https://github.com/gallm1/ecommerce</a></p>
 
                             </div>
 
@@ -94,13 +90,12 @@ const portfolio = () => {
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">Team Profile Generator</p>
-                                <p id="repo"><a href="https://github.com/gallm1/teamprofilegen"
-                                >https://github.com/gallm1/teamprofilegen</a></p>
+                                <p id="repo"><a href="https://github.com/gallm1/teamprofilegen" target="_blank">https://github.com/gallm1/teamprofilegen</a></p>
 
                             </div>
                         </div>
                         <br></br>
-                        <div className="gitProfile">
+                        {/* <div className="gitProfile">
                             <p>GitHub Profile: <a href="">
                             </a> </p>
                             <p>Linkedin Profile: <a href=""
@@ -110,7 +105,7 @@ const portfolio = () => {
                             <a href=""
                             > Resume</a>
 
-                        </div>
+                        </div> */}
                     </div>
 
                 </div>
