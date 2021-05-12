@@ -8,7 +8,12 @@
 }
 
 #name {
-    font-size: 25px;
+    font-size: 35px;
+}
+
+.nav-item {
+    color: white;
+    text-decoration: none;
 }
 
 .container {

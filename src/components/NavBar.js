@@ -13,13 +13,13 @@ const mainPage = () => {
                 </div>
                 <div className="col-md-3"></div>
                 <div className="col-md-1">
-                    <Link to="/About">About Me</Link>
+                    <Link class="nav-item" to="/About">About Me</Link>
                 </div>
                 <div className="col-md-1">
-                    <Link to="/Portfolio">Portfolio</Link>
+                    <Link class="nav-item" to="/Portfolio">Portfolio</Link>
                 </div>
                 <div className="col-md-1">
-                    <Link to="/Contact">Contact</Link>
+                    <Link class="nav-item" to="/Contact">Contact</Link>
                 </div>
                 <div className="col-md-1"></div>
             </nav>
